@@ -1,0 +1,9 @@
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\obj\Debug\ConsoleTesteConsAPI.csprojResolveAssemblyReference.cache
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\obj\Debug\ConsoleTesteConsAPI.csproj.CoreCompileInputs.cache
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\bin\Debug\ConsoleTesteConsAPI.exe.config
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\bin\Debug\ConsoleTesteConsAPI.exe
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\bin\Debug\ConsoleTesteConsAPI.pdb
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\obj\Debug\ConsoleTesteConsAPI.exe
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\obj\Debug\ConsoleTesteConsAPI.pdb
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\FLAVINEI\source\repos\ConsoleTesteConsAPI\bin\Debug\Newtonsoft.Json.xml
